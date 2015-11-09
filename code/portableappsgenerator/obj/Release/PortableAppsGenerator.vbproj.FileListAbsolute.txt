@@ -1,0 +1,21 @@
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\bin\Release\PortableAppsGenerator.exe
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Release\PortableAppsGenerator.MainForm.resources
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Release\PortableAppsGenerator.exe
+F:\PortableApps.com Generator\Code\PortableAppsGenerator\bin\Release\PortableAppsGenerator.exe
+F:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Release\ResolveAssemblyReference.cache
+F:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Release\PortableAppsGenerator.MainForm.resources
+F:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Release\GenerateResource.read.1.tlog
+F:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Release\GenerateResource.write.1.tlog
+F:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Release\PortableAppsGenerator.exe
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\bin\Release\PortableAppsGenerator.exe.config
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Release\PortableAppsGenerator.LayoutPreview.resources
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Release\PortableAppsGenerator.vbprojResolveAssemblyReference.cache
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Release\PortableAppsGenerator.vbproj.GenerateResource.Cache
+C:\Users\Patrick G\Downloads\PortableApps.com Generator\PortableApps.com Generator\code\portableappsgenerator\obj\Release\PortableAppsGenerator.vbprojResolveAssemblyReference.cache
+C:\Users\Patrick G\Downloads\PortableApps.com Generator\PortableApps.com Generator\code\portableappsgenerator\obj\Release\PortableAppsGenerator.LayoutPreview.resources
+C:\Users\Patrick G\Downloads\PortableApps.com Generator\PortableApps.com Generator\code\portableappsgenerator\obj\Release\PortableAppsGenerator.MainForm.resources
+C:\Users\Patrick G\Downloads\PortableApps.com Generator\PortableApps.com Generator\code\portableappsgenerator\obj\Release\PortableAppsGenerator.vbproj.GenerateResource.Cache
+C:\Users\Patrick G\Downloads\PortableApps.com Generator\PortableApps.com Generator\code\portableappsgenerator\bin\Release\template.bat
+C:\Users\Patrick G\Downloads\PortableApps.com Generator\PortableApps.com Generator\code\portableappsgenerator\bin\Release\PortableAppsGenerator.exe.config
+C:\Users\Patrick G\Downloads\PortableApps.com Generator\PortableApps.com Generator\code\portableappsgenerator\bin\Release\PortableAppsGenerator.exe
+C:\Users\Patrick G\Downloads\PortableApps.com Generator\PortableApps.com Generator\code\portableappsgenerator\obj\Release\PortableAppsGenerator.exe

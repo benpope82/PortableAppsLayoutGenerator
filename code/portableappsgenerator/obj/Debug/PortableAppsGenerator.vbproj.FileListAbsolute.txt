@@ -1,0 +1,10 @@
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Debug\ResolveAssemblyReference.cache
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Debug\PortableAppsGenerator.MainForm.resources
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Debug\GenerateResource.read.1.tlog
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Debug\GenerateResource.write.1.tlog
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Debug\PortableAppsGenerator.LayoutPreview.resources
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\bin\Debug\PortableAppsGenerator.exe
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\bin\Debug\PortableAppsGenerator.pdb
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Debug\PortableAppsGenerator.exe
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\obj\Debug\PortableAppsGenerator.pdb
+E:\PortableApps.com Generator\Code\PortableAppsGenerator\bin\Debug\PortableAppsGenerator.exe.config
